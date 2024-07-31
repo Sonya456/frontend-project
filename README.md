@@ -35,7 +35,7 @@ the frontend application will be available at http://localhost:3000.
  
 
 ```markdown
-![image 1](https://github.com/Sonya456/frontend-project/tree/main/img/1.png)
+![image 1](https://github.com/Sonya456/frontend-project/blob/main/img/1.png)
 ![Screenshot 2](./img/2.png)
 ![Screenshot 3](./img/3.png)
 ![Screenshot 4](./img/4.png)
